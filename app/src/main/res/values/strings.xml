@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POST_BT_Turbidimeter_Widget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetooth_connected">Bluetooth turbidimeter is now connected. Please press read on
+    the turbidimeter once the vial is properly inserted</string>
+</resources>
